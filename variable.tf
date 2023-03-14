@@ -16,8 +16,3 @@ variable "secret_key" {
     default = "##########################"
 }
 
-variable "user_data" {
-  type = string
-  default = "ott_ubun.sh"
-  
-}
